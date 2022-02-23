@@ -15,4 +15,4 @@ Acceptance test is done with the help of Cucumber JVM plugin
 ```
 
 ## Acceptance Test Results
-![Alt text](img.jpg?raw=true "Shopping Cart Acceptance Test")
+![Alt text](shopping-cart-acceptance-tests.png?raw=true "Shopping Cart Acceptance Test")
