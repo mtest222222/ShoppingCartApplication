@@ -1,0 +1,8 @@
+rootProject.name = "ShoppingCartApplication"
+
+dependencyResolutionManagement {
+    repositories {
+        // REQUIRED: All of our dependency are available in maven central
+        mavenCentral()
+    }
+}
